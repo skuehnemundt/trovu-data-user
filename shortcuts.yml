@@ -4,10 +4,12 @@
 buecher 1: 
   url: https://ubffm.hds.hebis.de/Search/Results?lookfor=<param1>&mykeyboard=de&type=title&limit=20&sort=relevance
   title: UBFFM Suchportal
-  description: Bücher suchen im Suchportal
+  description: Bücher nach deutschem Titel suchen im Suchportal
   tags:
     - Bücher
-
+  examples:
+    - arguments: Buchtitel
+      expect: <title> Ergebniss für Buchtitel </title>
 
 #examplekeyword 0: http://www.example.com/
 #examplekeyword 1: http://www.example.com/?q=<query>
