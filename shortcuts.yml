@@ -1,7 +1,7 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-b 1: 
+bücher 1: 
   url: https://ubffm.hds.hebis.de/Search/Results?lookfor=<param1>&mykeyboard=de&type=title&limit=20&sort=relevance
   title: UBFFM Suchportal
   description: Bücher suchen im Suchportal
