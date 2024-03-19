@@ -6,7 +6,7 @@ buecher 1:
   title: UBFFM Suchportal
   description: Bücher nach deutschem Titel suchen im Suchportal
   tags:
-    - Bücher
+    - Buecher
   examples:
     - arguments: Buchtitel
       expect: <title> Ergebniss für Buchtitel </title>
