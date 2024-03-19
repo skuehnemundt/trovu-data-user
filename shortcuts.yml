@@ -1,7 +1,7 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-b: https://ubffm.hds.hebis.de/Search/Results?lookfor=<query>&mykeyboard=de&type=title&limit=20&sort=relevance
+b 1: https://ubffm.hds.hebis.de/Search/Results?lookfor=<query>&mykeyboard=de&type=title&limit=20&sort=relevance
 
 
 #examplekeyword 0: http://www.example.com/
