@@ -6,6 +6,6 @@ namespaces:
 - .us
 - github: .
   name: my
-# defaultKeyword: g 
+defaultKeyword: g 
 language: de
 country: de
