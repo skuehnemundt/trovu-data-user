@@ -12,12 +12,16 @@ buecher 1:
       expect: <title> Ergebniss für Buchtitel </title>
 
 
-aw 1:
+archwiki 1:
   url: https://wiki.archlinux.de/index.php?search=<param1>&title=Spezial%3ASuche&profile=default&fulltext=1
   description: Arch Deutsches Wiki dursuchen
   tags:
     - Linux
     - Arch
+   examples:
+    - arguments: Buchtitel
+      expect: <h1 id="firstHeading" class="firstHeading mw-first-heading">Suchergebnisse</h1>
+
 
 #examplekeyword 0: http://www.example.com/
 #examplekeyword 1: http://www.example.com/?q=<query>
