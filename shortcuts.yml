@@ -18,8 +18,8 @@ archwiki 1:
   tags:
     - Linux
     - Arch
-   examples:
-    - arguments: Buchtitel
+  examples:
+    - arguments: Suchbegriff
       expect: <h1 id="firstHeading" class="firstHeading mw-first-heading">Suchergebnisse</h1>
 
 
